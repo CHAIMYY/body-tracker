@@ -4,6 +4,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { UserProfile } from '../types';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 
+
 type RootStackParamList = {
   Home: undefined;
   EditProfile: undefined;
