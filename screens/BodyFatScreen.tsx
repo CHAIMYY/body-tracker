@@ -26,6 +26,7 @@ export default function BodyFatScreen() {
         value={waist}
         onChangeText={setWaist}
       />
+      
       <TextInput
         style={styles.input}
         placeholder="Tour de cou (cm)"
