@@ -3,6 +3,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
 
+
+
 import HomeScreen from './screens/HomeScreen';
 import BodyFatScreen from './screens/BodyFatScreen';
 import PhotoScreen from './screens/PhotoScreen';
