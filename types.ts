@@ -6,5 +6,6 @@ export interface UserProfile {
   weight: number;
   height: number;
   address: string;
+  
 }
 
