@@ -5,6 +5,7 @@ import * as VideoThumbnails from 'expo-video-thumbnails';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as ImageManipulator from 'expo-image-manipulator';
 
+
 export default function TimelapseScreen() {
   const [photos, setPhotos] = useState([]);
   const [timelapseUri, setTimelapseUri] = useState(null);
